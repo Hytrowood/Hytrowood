@@ -1,15 +1,18 @@
 # Hi, I'm Elowen Wu
 
-I am a Master of Information Technology (Artificial Intelligence) @ UNSW
+I am a Master of Information Technology student specialising in Artificial Intelligence at UNSW, with a strong interest in machine learning, deep learning, generative AI and software engineering.
 
-Machine Learning | Deep Learning | Generative AI | Python
+Machine Learning | Deep Learning | Generative AI | Data Analytics | Python
+
+Currently seeking internship opportunities in AI, Machine Learning and Data Science.
 
 ## About Me
 
 - Currently studying Artificial Intelligence and applied software development
 - Building machine learning projects with Python, PyTorch and scikit-learn
 - Interested in model evaluation, data-driven applications and generative AI
-- Open to learning through research projects, coursework and practical coding
+- Improving project presentation, experiment documentation and readable implementation
+- Open to internship opportunities where I can apply AI and software engineering skills
 
 ## Featured Projects
 
@@ -33,16 +36,37 @@ Repository: [ensemble-learning-decision-trees](https://github.com/Hytrowood/ense
 
 ## Tech Stack
 
-- Programming: Python
-- Machine Learning: PyTorch, scikit-learn, NumPy
-- Data and Visualisation: Jupyter Notebook, Matplotlib
-- Tools: Git, GitHub
+Programming:
+- Python
+- SQL
+- C
 
-## What I'm Working On
+Machine Learning:
+- PyTorch
+- Scikit-Learn
+- NumPy
+- Pandas
 
-I am developing practical AI projects that combine machine learning theory with clean, readable implementation. My current focus is improving model comparison, experiment documentation and project presentation on GitHub.
+Data Visualisation:
+- Matplotlib
+- Seaborn
+
+Tools:
+- Git
+- GitHub
+- Jupyter Notebook
+- VS Code
+
+## Current Interests
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Data Analytics
+- Software Engineering
+
+Currently seeking internship opportunities in AI, Machine Learning and Data Science.
 
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hytrowood&show_icons=true&hide_border=true)
-
