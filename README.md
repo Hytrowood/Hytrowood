@@ -1,6 +1,8 @@
 # Hi, I'm Elowen Wu
 
-I am a Master of Information Technology student specialising in Artificial Intelligence at UNSW. I am interested in AI, machine learning, deep learning and software engineering.
+I am a Master of Information Technology (Artificial Intelligence) @ UNSW
+
+Machine Learning | Deep Learning | Generative AI | Python
 
 ## About Me
 
